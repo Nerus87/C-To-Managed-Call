@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManagedDll", "ManagedDll\ManagedDll.vcproj", "{369E36C5-4ED4-4478-A3AD-7546CB8EA495}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManagedDll", "ManagedDll\ManagedDll.vcxproj", "{369E36C5-4ED4-4478-A3AD-7546CB8EA495}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedCSharp", "ManagedCSharp\ManagedCSharp.csproj", "{99D44CD0-9E09-4951-8941-704D8B5BCD11}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcproj", "{5A493BEC-1348-4E0D-8C4B-7487DC14DD28}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcxproj", "{5A493BEC-1348-4E0D-8C4B-7487DC14DD28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
